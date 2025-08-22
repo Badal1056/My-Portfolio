@@ -32,7 +32,7 @@ export const myProjects = [
       {
         id: 4,
         name: "jQuery",
-        path: "/assets/logos/jQuery.svg",
+        path: "/assets/logos/jquery.svg",
       },
       {
         id: 5,
@@ -108,7 +108,7 @@ export const myProjects = [
       {
         id: 4,
         name: "Bootstrap",
-        path: "/assets/logos/Bootstrap.svg",
+        path: "/assets/logos/bootstrap.svg",
       },
       {
         id: 5,
@@ -134,17 +134,17 @@ export const myProjects = [
       {
         id: 1,
         name: "Java",
-        path: "/assets/logos/Java.svg",
+        path: "/assets/logos/java.svg",
       },
       {
         id: 2,
         name: "Android Studio",
-        path: "/assets/logos/Android Studio.svg",
+        path: "/assets/logos/androidstudio.svg",
       },
       {
         id: 3,
         name: "Firebase",
-        path: "/assets/logos/Firebase.svg",
+        path: "/assets/logos/firebase.svg",
       },
       {
         id: 4,
